@@ -106,7 +106,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/tkeproject/RTDESocketClient</url>
+      <url>https://maven.pkg.github.com/tke-project/RTDESocketClient</url>
     </repository>
   </distributionManagement>
 </project>
